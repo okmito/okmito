@@ -90,11 +90,21 @@ Cybersecurity & Data Privacy
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=okmito&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https:///your-github-stats.vercel.app/api?user=okmito&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=okmito&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>

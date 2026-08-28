@@ -88,35 +88,13 @@ System Design
 Cybersecurity & Data Privacy
 ```
 
----
-
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=okmito&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=okmito)](https://git.io/streak-stats)
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=okmito&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/okmito?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 🐍 Contribution Graph
 

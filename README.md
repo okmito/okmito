@@ -103,13 +103,6 @@ Cybersecurity & Data Privacy
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okmito&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 

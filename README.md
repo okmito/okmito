@@ -98,6 +98,7 @@ Cybersecurity & Data Privacy
     alt="GitHub Streak"
   />
 </p>
+
 ---
 
 ## 📊 GitHub Activity
@@ -114,7 +115,9 @@ Cybersecurity & Data Privacy
     <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
+
 ## 🐍 Contribution Graph
 
 <p align="center">

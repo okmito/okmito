@@ -94,7 +94,7 @@ Cybersecurity & Data Privacy
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=okmito&theme=tokyonight&hide_border=true"
+    src="https:///your-github-stats.vercel.app/api?user=okmito&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>

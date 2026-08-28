@@ -90,17 +90,20 @@ Cybersecurity & Data Privacy
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okmito&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okmito&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img
+    src="https://streak-stats.demolab.com?user=okmito&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okmito&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/okmito?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 ---
 ## 🐍 Contribution Graph
 

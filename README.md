@@ -91,7 +91,7 @@ Cybersecurity & Data Privacy
 ## 🔥 GitHub Streak
 <p align="center">
 <img
-  src="https://streak-stats.demolab.com/?user=okmito)](https://git.io/streak-stats"
+  src="https://streak-stats.demolab.com/?user=okmito"
   alt="GITHUB STREAK"
   />
 </p>
